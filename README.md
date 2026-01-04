@@ -56,8 +56,9 @@ This project investigates the unconventional market performance and successful u
 ## 如何运行
 
 1. 打开Google Colab
-2. 上传 `main_analysis.ipynb` 文件
+2. 上传 `yup_main_analysis.ipynb` 文件
 3. 按顺序运行代码单元格
+4. ⚠️注意：run的过程中需要下载三个cvs文件按照comment指导上传
 
 ---
 *免责声明：本项目为学习目的的分析练习，所有数据来源已注明，结论仅供参考。*
