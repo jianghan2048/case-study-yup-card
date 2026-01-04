@@ -1,4 +1,4 @@
-# yup_study
+# case study: YUP visa card (Indonesia)
 This project investigates the unconventional market performance and successful user acquisition strategies of the Yup visa card in Indonesia.
 
 # 印尼Yup信用卡市场分析项目
