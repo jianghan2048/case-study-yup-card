@@ -51,7 +51,7 @@ This project investigates the unconventional market performance and successful u
 - **技术实现指导**：Python代码编写、API调用
 - **分析方法咨询**：分析框架建议、角度启发
 - **表达优化**：报告润色、专业术语解释
-**重要说明**：所有商业洞察、数据分析、结论建议均由我独立完成，AI仅作为工具辅助。
+- **重要说明**：所有商业洞察、数据分析、结论建议均由我独立完成，AI仅作为工具辅助。
 
 ## 如何运行
 
